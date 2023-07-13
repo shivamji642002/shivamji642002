@@ -26,7 +26,7 @@ https://tenor.com/view/hi-hi-brown-running-brown-line-friends-gif-17854565
 <!---
 shivamji642002/shivamji642002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->![](https://user-images.githubusercontent.com/40994679/193735642-4d9789f0-209e-4598-aec8-7357976989c8.png)
+--->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4000&lines=Hola%F0%9F%91%8B%2C+Nitesh+here.;Welcome+to+my+profile.;Nice+to+meet+you!&center=true&size=30">
