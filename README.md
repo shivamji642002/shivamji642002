@@ -1,8 +1,4 @@
-
-![Uploading web-developer-mycrxn.gif…]()
-
-
-- 👋 Hi, I’m @shivam               
+###👋 Hi, I’m @shivam     ###          
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning in RBSSITE
     State govt Engineering college Zainabad (Haryana)
