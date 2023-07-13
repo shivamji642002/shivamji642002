@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @shivamji642002
+- 👋 Hi, I’m @shivamji642002 ![hi-hello](https://github.com/shivamji642002/shivamji642002/assets/96495804/647c6712-248e-4a25-acc6-60ea8930a662)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning in RBSSITE
     State govt Engineering college Zainabad (Haryana)
