@@ -7,7 +7,10 @@
 - 📫 Here portfolio:https://codersworlds.com/resume/
 - ![hi-hello](https://github.com/shivamji642002/shivamji642002/assets/96495804/647c6712-248e-4a25-acc6-60ea8930a662)
 
--
+-🎄 skills 
+
+![web-developer-mycrxn](https://github.com/shivamji642002/shivamji642002/assets/96495804/aa0d913b-2c48-4684-8d51-d95dff2b5c9c)
+
 -
 -
 -
