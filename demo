@@ -1,1 +1,21 @@
+name: Nitesh Kumar
+located_in: West Bengal, Haldia
+current_job: Data Science Student & Freelancer
+education:
+  [
+    "Self-Taught Data Engineer and a freelancer",
+    "Diploma's in Computer Engineering",
+    "Bachelor's in Computer Science with (Data Science)",
+  ]
+company: GitHub
 
+fields_of_interests:
+  [
+    "Machine Learning",
+    "Data Engineering",
+    "Web Dev",
+    "Cloud",
+    "NFT & Metaverse"
+  ]
+  
+currently_learning: ["Machine Learning, Data Science and Stock Market"]
