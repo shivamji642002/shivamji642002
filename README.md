@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @shivamji642002                                 ![hi-hello](https://github.com/shivamji642002/shivamji642002/assets/96495804/647c6712-248e-4a25-acc6-60ea8930a662)
-
+- 👋 Hi, I’m @shivam               
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning in RBSSITE
     State govt Engineering college Zainabad (Haryana)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 📫 Here portfolio:https://codersworlds.com/resume/
+- ![hi-hello](https://github.com/shivamji642002/shivamji642002/assets/96495804/647c6712-248e-4a25-acc6-60ea8930a662)
+
+-
+-
+-
+-
 - 🎗Summury 
 SHIVAM
 To work in a creative and challenging environment where I could constantly learn and successfully deliver solutions to problems.
