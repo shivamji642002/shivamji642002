@@ -28,7 +28,7 @@
 
 - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
 
-- 📫 How to reach me *moughavaibhav@gmail.com*
+- 📫 How to reach me *shovamji642002@gmail.com*
 
 
 
