@@ -42,7 +42,7 @@
 <a href="www.linkedin.com/in/shivam-ji-21b768219" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:tunu1994@gmail.com" target="_blank">
+<a href="mailto:shivamji642002@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 </div>
