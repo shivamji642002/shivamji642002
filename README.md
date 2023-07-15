@@ -39,7 +39,7 @@
 <a href="https://github.com/shivamji642002/shivamji642002">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://https://www.linkedin.com/in/shivam-ji-21b768219/" target="_blank">
+<a href="www.linkedin.com/in/shivam-ji-21b768219" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:tunu1994@gmail.com" target="_blank">
