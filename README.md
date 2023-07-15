@@ -36,7 +36,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/vaibhav-mougha" target="_blank">
+<a href="https://github.com/shivamji642002/shivamji642002">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/vaibhavmougha/" target="_blank">
@@ -85,19 +85,19 @@
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
-<a href="https://github.com/vaibhav-mougha/github-readme-stats"><img alt="vaibhav-mougha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-mougha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/vaibhav-mougha/github-readme-stats"><img alt="shivam Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-mougha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
     <a href="https://github.com/vaibhav-mougha/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vaibhav-mougha streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-mougha&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shivam streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-mougha&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/vaibhav-mougha/github-readme-stats"><img alt="vaibhav-mougha Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhav-mougha&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="vaibhav-mougha" /></a>
+    <a href="https://github.com/vaibhav-mougha/github-readme-stats"><img alt="shivam Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhav-mougha&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="shivam" /></a>
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
