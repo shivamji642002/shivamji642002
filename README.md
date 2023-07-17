@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning *React.js*
 
-- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!Al8je8BgLJXPmjDlfHu1LvZYrn1Y?e=K0TbWN)
+- 📄 Know about my experiences [Resume]()
 
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://codersworlds.com/resume/)
 
@@ -105,8 +105,7 @@
 <br/>
 <br/>
 
-<!-- <a href="https://github.com/vaibhav-mougha/github-readme-activity-graph"><img alt="vaibhav-mougha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vaibhav-mougha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-<a href="https://github.com/vaibhav-mougha/github-readme-activity-graph"><img alt="vaibhav-mougha Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaibhav-mougha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
