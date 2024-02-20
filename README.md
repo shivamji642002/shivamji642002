@@ -90,8 +90,7 @@
      <br/>
    <p align="center">
     <a href="https://github.com/vaibhav-mougha/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shivam streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-mougha&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    </a>
+        
 </p>                                                                                                                                              
 
   <br/>
