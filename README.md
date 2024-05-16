@@ -112,6 +112,7 @@
 <h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<hr>
  ## 📊 👋 Hi, I’m @shivam              
 ## - 👀 I’m interested in ...
 ## - 🌱 I’m complete B.tech in computer science engineering from RBSSITE
@@ -119,7 +120,7 @@
 ## - 💞️ I’m looking to collaborate on ...
 ## - 📫 How to reach me ...
 ## - 📫 Here portfolio:https://shivamji2200.netlify.app/
-
+<hr/>
 
 - ![hi-hello](https://github.com/shivamji642002/shivamji642002/assets/96495804/647c6712-248e-4a25-acc6-60ea8930a662)
 
