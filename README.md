@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Resume]()
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio](https://codersworlds.com/resume/)
+- 👨‍💻 All of my projects are available at Github and [Portfolio](https://shivamji2200.netlify.app/)
 
 - 💞️ I’m looking to collaborate on **Projects**
 
@@ -120,7 +120,7 @@
     State govt Engineering college Zainabad (Haryana)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 📫 Here portfolio:https://codersworlds.com/resume/
+- 📫 Here portfolio:https://shivamji2200.netlify.app/
 
 
 - ![hi-hello](https://github.com/shivamji642002/shivamji642002/assets/96495804/647c6712-248e-4a25-acc6-60ea8930a662)
@@ -283,9 +283,9 @@ To work in a creative and challenging environment where I could constantly learn
 
 S-23/102 mahavir asthan.
 sasaram Dist-Rohtas (821115)
-+91 9955478113
++91 9955478113 or 7562963096
 shivamji2200@gmail.com
-https://tenor.com/view/hi-hi-brown-running-brown-line-friends-gif-17854565
+
 <!---
 shivamji642002/shivamji642002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
