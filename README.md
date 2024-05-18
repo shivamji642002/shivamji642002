@@ -34,6 +34,112 @@
 
 <hr />
 
+### Resume 
+# SHIVAM
+
+**DOB:** 05/02/2004  
+**Address:** Sasaram, Bihar  
+
+**MERN Stack Developer**  
+Email: [shivamji2200@gmail.com](mailto:shivamji2200@gmail.com)  
+Phone: +91-7562963096  
+[LinkedIn](https://www.linkedin.com/in/shivamji642002/) | [GitHub](https://github.com/shivamji642002)
+
+---
+
+## Objective
+
+Aspiring MERN Stack Developer with around 6 months of experience in React and a comprehensive internship at Mobirizer Service. Seeking a long-term role with a growth-oriented organization where I can contribute to front-end development and take on additional responsibilities.
+
+---
+
+## Professional Experience
+
+### [ Maheshwari Modular And Interiors MMAi ](https://mmai.in/)
+**Company:** Mobirizer Service  
+**Role:** Front-end Developer, Data Engineer  
+**Duration:** April 2024 - Present  
+
+**Project Description:**  
+Migrated individual portfolio businesses for interior design. Developed and implemented a page migration plan for 5 web pages and designed a MongoDB database for contact form data. Completed the project within 2 weeks.
+
+**Responsibilities:**
+- Front-end development using React.js
+- Database design and management with MongoDB
+- Ensuring responsive design and user-friendly interfaces
+
+---
+### Netflix_Clone_by_Shivam
+- **Description:** Netflix_clone is an online OTT Platform.
+- **Individual Project:** Shivam
+- **Duration:** 1 weaks.
+- **Tech-Stacks & Tools used:** Vite React, Node js, CSS, media queries, React-router-dom, Redux, NPM, Firebase, Vercel, Vs-Code, GitHub, TMDB Api.
+- **GitHub Link:** [ Netflix_Clone_by_Shivam ](https://github.com/shivamji642002/Netflix_Clone_Shivam)
+- **Deployed Link:** [ Web_Deployement_Link_OnClick ](https://netflix-clone-shivam-one.vercel.app/)
+
+## Skills
+
+**Primary Skills:**
+- JavaScript
+- HTML5
+- CSS3
+
+**Secondary Skills:**
+- React.js
+- Node.js
+- Express.js
+- Python
+- Core Java
+
+**Databases:**
+- DBMS
+- MongoDB
+- MySQL
+- SQL
+
+**Tools:**
+- Git (GitHub)
+- VS Code
+
+**Methodologies:**
+- Static development
+- RESTful APIs
+
+---
+
+## Professional Summary
+
+- 6 months of hands-on experience in React development.
+- Knowledgeable in MongoDB, MySQL, and SQL databases.
+- Effective communication skills with the ability to quickly adapt in a team environment.
+- Experienced with GitHub for version control and JIRA for issue tracking.
+- Proficient in identifying and resolving code and data discrepancies.
+
+---
+
+## Education
+
+**Bachelor of Technology in Computer Science Engineering**  
+Rao Birender Singh State Institute of Engineering and Technology, Zainbad, Haryana  
+2021 - 2024 | Percentage: 60%
+
+**Diploma in Computer Science Engineering**  
+CDL Govt Polytechnic College, Nathusari Chopta, Haryana  
+2018 - 2021 | Percentage: 79.2%
+
+**High School**  
+Chitauli High School, Sasaram  
+Bihar Board | 2018
+
+---
+
+## Contact Information
+
+- **Email:** [shivamji2200@gmail.com](mailto:shivamji2200@gmail.com)
+- **Phone:** +91-7562963096
+- [LinkedIn](https://www.linkedin.com/in/shivamji642002/)
+- [GitHub](https://github.com/shivamji642002)
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/shivamji642002/shivamji642002">
