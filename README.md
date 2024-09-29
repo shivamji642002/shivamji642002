@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHIVAM</h1>
-<h3 align="center">A passionate Full Stack Developer </h3>
+<h3 align="center">A passionate Full Stack Java Developer </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
