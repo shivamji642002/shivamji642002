@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning *React.js*
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://shivamji642002.my.canva.site/)
 
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://shivamji2200.netlify.app/)
 
