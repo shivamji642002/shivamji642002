@@ -16,9 +16,9 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🔭 I’m currently pursuing Full Stack Web Development
+- 🔭 I’m currently pursuing Full Stack Java Development
 
-- 🌱 I’m currently learning *React.js*
+- 🌱 I’m currently Working *[IWINGS](https://www.iwings.co.in/)* 
 
 - 📄 Know about my experiences [Resume](https://shivamji642002.my.canva.site/)
 
@@ -26,9 +26,9 @@
 
 - 💞️ I’m looking to collaborate on **Projects**
 
-- 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
+- 💬 Ask me about *HTML, CSS, JavaScript, React, Java, Spring Boot, Mysql*
 
-- 📫 How to reach me *shovamji642002@gmail.com*
+- 📫 How to reach me *shivamji2200@gmail.com*
 
 
 
@@ -40,7 +40,7 @@
 **DOB:** 05/02/2004  
 **Address:** Sasaram, Bihar  
 
-**MERN Stack Developer**  
+**Full Stack Java Developer**  
 Email: [shivamji2200@gmail.com](mailto:shivamji2200@gmail.com)  
 Phone: +91-7562963096  
 [LinkedIn](https://www.linkedin.com/in/shivamji642002/) | [GitHub](https://github.com/shivamji642002)
@@ -49,47 +49,48 @@ Phone: +91-7562963096
 
 ## Objective
 
-Aspiring MERN Stack Developer with around 6 months of experience in React and a comprehensive internship at Mobirizer Service. Seeking a long-term role with a growth-oriented organization where I can contribute to front-end development and take on additional responsibilities.
+Motivated Full Stack Java Developer with expertise in Java 8+, Spring Boot, and RESTful APIs. Skilled in backend development and integrating databases like MySQL and MongoDB, with front-end experience in HTML5, CSS3, JavaScript, and React.js. Strong grasp of OOP principles and data structures, eager to grow in full-stack development.
 
 ---
 
-## Professional Experience
 
-### [ Maheshwari Modular And Interiors MMAi ](https://mmai.in/)
-**Company:** Mobirizer Service  
-**Role:** Front-end Developer, Data Engineer  
-**Duration:** April 2024 - Present  
 
-**Project Description:**  
-Migrated individual portfolio businesses for interior design. Developed and implemented a page migration plan for 5 web pages and designed a MongoDB database for contact form data. Completed the project within 2 weeks.
+### **Professional Experience**
 
-**Responsibilities:**
-- Front-end development using React.js
-- Database design and management with MongoDB
-- Ensuring responsive design and user-friendly interfaces
+**Software Developer**  
+*iWings* | [Dec, 2023] – Present  
+
+- **Frontend Development:**
+  - Developed and maintained responsive web applications using **HTML**, **CSS**, and **JavaScript**, ensuring cross-browser compatibility and a seamless user experience.  
+  - Built dynamic, reusable UI components with **React**, adhering to best practices in state management and performance optimization.  
+
+- **Backend Development:**
+  - Designed and implemented RESTful APIs using **Java** and **Spring Boot**, ensuring secure and scalable backend services.  
+  - Integrated APIs with MySQL database, leveraging **JPA/Hibernate** for efficient data access and management.  
+
+- **Database Management:**
+  - Structured and optimized database schemas in **MySQL**, enabling efficient query performance for various applications.  
+
+- **Collaboration & Tools:**
+  - Worked closely with cross-functional teams, including designers and project managers, to deliver projects on time.  
+  - Utilized tools like **Git**, **Jira**, and **Postman** for version control, issue tracking, and API testing.  
+
+**Key Achievements:**  
+- Reduced page load times by 30% through React code optimization.  
+- Streamlined backend workflows, improving API response time by 20%.  
+- Successfully delivered [X projects] within tight deadlines, achieving high client satisfaction rates.
 
 ---
-### Netflix_Clone_by_Shivam
-- **Description:** Netflix_clone is an online OTT Platform.
-- **Individual Project:** Shivam
-- **Duration:** 1 weaks.
-- **Tech-Stacks & Tools used:** Vite React, Node js, CSS, media queries, React-router-dom, Redux, NPM, Firebase, Vercel, Vs-Code, GitHub, TMDB Api.
-- **GitHub Link:** [ Netflix_Clone_by_Shivam ](https://github.com/shivamji642002/Netflix_Clone_Shivam)
-- **Deployed Link:** [ Web_Deployement_Link_OnClick ](https://netflix-clone-shivam-one.vercel.app/)
-
 ## Skills
-
 **Primary Skills:**
-- JavaScript
 - HTML5
 - CSS3
+- JavaScript
+- Java
 
 **Secondary Skills:**
 - React.js
-- Node.js
-- Express.js
-- Python
-- Core Java
+- SpringBoot
 
 **Databases:**
 - DBMS
@@ -100,20 +101,9 @@ Migrated individual portfolio businesses for interior design. Developed and impl
 **Tools:**
 - Git (GitHub)
 - VS Code
-
+- Postman
 **Methodologies:**
-- Static development
 - RESTful APIs
-
----
-
-## Professional Summary
-
-- 6 months of hands-on experience in React development.
-- Knowledgeable in MongoDB, MySQL, and SQL databases.
-- Effective communication skills with the ability to quickly adapt in a team environment.
-- Experienced with GitHub for version control and JIRA for issue tracking.
-- Proficient in identifying and resolving code and data discrepancies.
 
 ---
 
@@ -121,7 +111,7 @@ Migrated individual portfolio businesses for interior design. Developed and impl
 
 **Bachelor of Technology in Computer Science Engineering**  
 Rao Birender Singh State Institute of Engineering and Technology, Zainbad, Haryana  
-2021 - 2024 | Percentage: 60%
+2021 - 2024 | Percentage: 69.7%
 
 **Diploma in Computer Science Engineering**  
 CDL Govt Polytechnic College, Nathusari Chopta, Haryana  
@@ -129,7 +119,7 @@ CDL Govt Polytechnic College, Nathusari Chopta, Haryana
 
 **High School**  
 Chitauli High School, Sasaram  
-Bihar Board | 2018
+Bihar Board | 2018 | 67.2%
 
 ---
 
