@@ -58,7 +58,7 @@ Motivated Full Stack Java Developer with expertise in Java 8+, Spring Boot, and 
 ### **Professional Experience**
 
 **Software Developer**  
-*iWings* | [Dec, 2023] – Present  
+*iWings* | [Oct, 2023] – Present  
 
 - **Frontend Development:**
   - Developed and maintained responsive web applications using **HTML**, **CSS**, and **JavaScript**, ensuring cross-browser compatibility and a seamless user experience.  
