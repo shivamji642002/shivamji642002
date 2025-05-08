@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently Working *[IWINGS](https://www.iwings.co.in/)* 
 
-- 📄 Know about my experiences [Resume](https://shivamji642002.my.canva.site/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UrXssN3xFHL9M6QWP3kZu8XCMDd-tfan/view)
 
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://shivamji2200.netlify.app/)
 
