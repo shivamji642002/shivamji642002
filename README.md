@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack Java Developer </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self SHIVAM; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&pause=1000&color=0EC9F7&width=435&lines=Hi!+My+self+SHIVAM+I+am+Java+Developer." alt="Typing SVG" /></a>
 </p>
+
 
 <div align="center">
 <img align="center" src = "https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coverimage"  />
