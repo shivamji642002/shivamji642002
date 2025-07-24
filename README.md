@@ -42,7 +42,7 @@
 
 **Full Stack Java Developer**  
 Email: [shivamji2200@gmail.com](mailto:shivamji2200@gmail.com)  
-Phone: +91-7562963096  
+Phone: +91-7562963096 or 9955478113  
 [LinkedIn](https://www.linkedin.com/in/shivamji642002/) | [GitHub](https://github.com/shivamji642002)
 
 ---
@@ -58,7 +58,7 @@ Motivated Full Stack Java Developer with expertise in Java 8+, Spring Boot, and 
 ### **Professional Experience**
 
 **Software Developer**  
-*iWings* | [Oct, 2023] – Present  
+*iWings* | [Oct, 2021] – Present  
 
 - **Frontend Development:**
   - Developed and maintained responsive web applications using **HTML**, **CSS**, and **JavaScript**, ensuring cross-browser compatibility and a seamless user experience.  
